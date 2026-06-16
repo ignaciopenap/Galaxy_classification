@@ -46,10 +46,37 @@ These results are consistent with the interpretation that STARBURST galaxies rep
 
 ---
 
+## Figures
+
+### Color-Color Diagram
+
+This diagram shows the distribution of STARFORMING and STARBURST galaxies in color space.
+
+![Color-Color Diagram](figures/color-color-diagram.png)
+
+### Redshift Distribution
+
+Comparison of the redshift distributions for both galaxy populations.
+
+![Redshift Distribution](figures/distance-distr.png)
+
+### Petrosian Radius
+
+Distribution of the half-light radius (PetroR50) for STARFORMING and STARBURST galaxies.
+
+![PetroR50](figures/boxplot.png)
+
+---
+
 ## Repository Structure
 
 ```text
 Galaxy_classification/
+│
+├── figures/
+│   ├── boxplot.png
+│   ├── color-color-diagram.png
+│   └── distance-distr.png
 │
 ├── SDSS_Galaxy_Population_Analysis.ipynb
 ├── README.md
