@@ -51,7 +51,7 @@ These results are consistent with the interpretation that STARBURST galaxies rep
 ```text
 Galaxy_classification/
 │
-├── Starforming_vs_Starburst_SDSS.ipynb
+├── SDSS_Galaxy_Population_Analysis.ipynb
 ├── README.md
 └── sdss_100k_galaxy_form_burst.csv
 ```
